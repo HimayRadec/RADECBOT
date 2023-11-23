@@ -9,6 +9,11 @@
   "author": "Himay",
   "license": "ISC",
   "dependencies": {
-    "discord": "^0.8.2"
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.54.0"
   }
 }
