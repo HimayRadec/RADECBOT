@@ -1,0 +1,14 @@
+{
+  "name": "radec-bot",
+  "version": "1.0.0",
+  "description": "Initial Version of Radec Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "author": "Himay",
+  "license": "ISC",
+  "dependencies": {
+    "discord": "^0.8.2"
+  }
+}
